@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi, I’m **[@AlanWu233 ](https://github.com/AlanWu233)**, a junior high school student from Fujian, China.
 
-<!--
-**AlanWu233/AlanWu233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My accounts:
+- WeChat: (Privacy)
+- QQ: (Privacy)
+- Weibo: (Privacy)
+- Twitter: (Privacy)
+- Crowdin: (Privacy)
